@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Insight Stream Consulting (惠流顧問） is a team combined with different talents across Asia for the social impact and digital rights. The purpose of our consulting service is to provide a grounding, professional, humanity perspective for your event/project/training/eventp. Welcome to reach out and expand your network for starting your idea in Asia for the social impact. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
