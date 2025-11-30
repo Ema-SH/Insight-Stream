@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
-category: facts
-permalink: /facts
+title: Our Services/服務項目
+category: service
+permalink: /services
 ---
