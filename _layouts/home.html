@@ -2,11 +2,11 @@
 layout: default
 title: Home
 ---
-
+<br/>
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
-
+<br/>
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
