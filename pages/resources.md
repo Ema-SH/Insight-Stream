@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
-category: resources
-permalink: /resources
+title: Insights / 觀點
+category: insights
+permalink: /insights
 ---
