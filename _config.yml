@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Stream Insight 惠流顧問"
+title:		           "Stream Insight"
 description:	       "a consulting team based in Asia for digital rights and social impacts"
 author:              "Szuhui Huang"
 
