@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Our Services/服務項目
-category: service
+category: services
 permalink: /services
 ---
