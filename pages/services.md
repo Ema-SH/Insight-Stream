@@ -4,8 +4,12 @@ title: Services/服務項目
 category: services
 permalink: /services
 ---
-<h1>以洞察為源，讓策略在流動中成形</h1>
 
+
+<div class="page-content">
+</div>
+<h1>以洞察為源，讓策略在流動中成形</h1>
+<article>
 惠流的工作核心，是在複雜的議題與區域環境中，
 找到清晰的方向，並陪你把它走完。
 
@@ -60,3 +64,5 @@ permalink: /services
 <h2>🔍 Tailored Consulting 客製諮詢</h2>
 
 每個組織都有獨特需求。如果在規劃或執行過程中遇到挑戰，透過提供量身訂做的顧問方案，包括短期諮詢、長期合作或專案型支援。 
+ </article>
+</div>
