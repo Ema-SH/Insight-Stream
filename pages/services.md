@@ -41,7 +41,7 @@ permalink: /services
 讓策略不只是寫得好，而是能被實現。
 
 
-<h2>>🔍 Research & East Asia Insights 研究與東亞洞察</h2>
+<h2>👀 Research & East Asia Insights 研究與東亞洞察</h2>
 
 在快速變動的區域情勢中，資訊流動可能太快，但理解必須慢、必須深。
 我提供的不是大量資訊，而是能協助你做出判斷的 可行洞察。
@@ -55,6 +55,6 @@ permalink: /services
 而是幫助你看見接下來可能發生什麼。
 
 
-<h2>>🔍 Tailored Consulting 客製諮詢</h2>
+<h2>🔍 Tailored Consulting 客製諮詢</h2>
 
 每個組織都有獨特需求。如果你在規劃或執行過程中遇到挑戰，我可以提供量身訂做的顧問方案，包括短期諮詢、長期合作或專案型支援。 
