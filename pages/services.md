@@ -28,7 +28,7 @@ permalink: /services
 惠流的策略工作，始於洞察，也止於具體行動。
 
 
-<h2>>🛠️ Program Implementation Support 專案執行與活動協力</h2>
+<h2>🛠️ Program Implementation Support 專案執行與活動協力</h2>
 
 當策略需要落地，真正的挑戰才開始。
 行政、協調、跨國合作、文化差異——往往不是大問題，但會累積成阻力。
