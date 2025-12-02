@@ -9,15 +9,16 @@ permalink: /services
 <div class="page-content">
 </div>
 <h2>以洞察為源，讓策略在流動中成形</h2>
-<article>
+ <article>
+<b/> 
 <b/> 
 惠流的工作核心，是在複雜的議題與區域環境中，
 找到清晰的方向，並陪你把它走完。
-
+<b/> 
 我相信，好的策略不是僵硬的計畫，而是能在脈動中保持彈性；
 好的研究不是堆砌資訊，而是幫助你看見關鍵問題；
 好的合作不是外包，而是以你為起點，共同推動改變。
-
+<b/> 
 以下是三項能最好體現惠流特色的核心服務:
 <b/> 
 <h3>🧭 Project Strategy & Planning 專案策略與規劃</h3>
@@ -65,5 +66,5 @@ permalink: /services
 <h3>🔍 Tailored Consulting 客製諮詢</h3>
 <b/> 
 每個組織都有獨特需求。如果在規劃或執行過程中遇到挑戰，透過提供量身訂做的顧問方案，包括短期諮詢、長期合作或專案型支援。 
- </article>
+  </article>
 </div>
