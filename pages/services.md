@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Services/服務項目
 category: services
 permalink: /services
