@@ -70,5 +70,6 @@ permalink: /services
 <h3>🔍 Tailored Consulting 客製諮詢</h3>
 <br> 
 <p>每個組織都有獨特需求。如果在規劃或執行過程中遇到挑戰，透過提供量身訂做的顧問方案，包括短期諮詢、長期合作或專案型支援。 </p>
-  </article>
+
+</article>
 </div>
