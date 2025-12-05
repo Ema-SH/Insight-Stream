@@ -12,8 +12,10 @@ image: arctic-1.jpg
 
 In real-world practice, we often feel that we can’t find the right workshop facilitator—and there are many possible reasons behind this!
 在實務現場中，我們往往覺得找不到適合的講師，這背後有很多的可能！
+
 These reasons may include: “No one understands us,” “Overseas knowledge doesn’t always fit East Asia,” “This knowledge is too niche,” or “We aren’t actually sure what we want,” and so on.
 這些可能也許是：「沒有人了解我們」、「海外知識不一定適合東亞」、「這個知識太冷門了」、「其實我們不夠明確知道要什麼」等等...
+
 Workshop design is one of the services Hui-Liu provides most frequently. Because our team consists largely of practitioners with management experience, we can get straight to the core purpose of a workshop and transform ideas into practical, collaborative processes that everyone can participate in—and often even enjoy!  
 工作坊設計是惠流最常幫客戶進行的服務項目之一，因為我們大多都是實務工作者且也有管理經驗，因此可以以更直指核心的角度切入來釐清工作坊目的，同時以實際上可行的方式讓想法變成大家可以一起操作、共創的形式，而且...很多時候還會讓人樂在其中！
 
