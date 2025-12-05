@@ -1,157 +1,59 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Workshop 工作坊"
+author: "Szuhui"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg
 ---
 
-# Markdown Support
+# Workshop 工作坊 
+## A possibility to co-work and co-learning 一種集體共作和相互學習的可能性 
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+在實務現場中，我們往往覺得找不到適合的講師，這背後有很多的可能！這些可能也許是：「沒有人了解我們」、「海外知識不一定適合東亞」、「這個知識太冷門了」、「其實我們不夠明確知道要什麼」等等... 工作坊設計是惠流最常幫客戶進行的服務項目之一，因為我們大多都是實務工作者且也有管理經驗，因此可以以更直指核心的角度切入來釐清工作坊目的，同時以實際上可行的方式讓想法變成大家可以一起操作、共創的形式，而且...很多時候還會讓人樂在其中！
 
-## Basic Formatting
+一般來說，惠流會以三個方式來建構一場工作坊:
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
+## Break hard knowlege into all understandable points 化繁為簡
 
-## Paragraphs
+**Using the 2025 OPENAI Workshop as an Example, it’s not easy to explain OpenAI, SaaS, Life of Circle, and LLM to workers with zero background within just two hours—while also guiding them through proper OpenAI usage norms and boundaries, and finally helping them apply these tools in NGO contexts, especially on a Sunday morning at 10 AM!**  
+**以 2025 年舉辦過的 OPEN AI 工作坊為例，要在 2 小時內，對完全沒有基礎的工作者解釋 Open AI 、Saas、Life of Circle、LLM 並且引導大家更正式 Open AI 使用規範和界線，最後讓大家可以應用在 NGO 工作場域之上，這不是一件容易的事情，尤其時間點是週日早上 10 點！**
 
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+**Hui-Liu took three key actions to turn complex knowledge into digestible content and materials for discussion:**  
+**惠流做了三個主要的動作，來轉換知識變成可吸收的內容和能相互討論的素材：**
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+---
 
+### **1. Using relatable imagery and storytelling to translate knowledge**  
+### **1. 用大眾化圖像、敘事來轉換知識**
 
-## Headings
+**When terms like “cloud database: selection, authorization, analysis, output” feel distant, we replaced them with a familiar metaphor—“a vegetable farm: picking, certification, transportation.”**  
+**當「雲端資料庫存：選取、授權、分析、產出」聽起來很遙遠，我們用「蔬菜農場：選菜、認證、運送」的概念來取代！**
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+**The closer the content is to everyday life, the easier it is to bridge gaps in background, language, and expertise—helping participants form a new shared language for higher-quality discussion and outcomes.**  
+**貼近生活愈多，越能跨越背景、語言和知識的隔閡，讓大家重新找到新的共同語言以產出更有品質的討論和產出。**
 
-# Heading One (h1)
+---
 
-## Heading Two (h2)
+### **2. Providing open-source and trustworthy toolkits for continued learning**  
+### **2. 用開源和可信賴的工具包來加深事後學習**
 
-### Heading Three (h3)
+**Each part of the workshop was built from reliable data or academic sources.**  
+**每部分的內容設計都是來自於可信賴的資料或學術產出。**
 
-#### Heading Four (h4)
+**We recognized that everyone learns at a different pace and has varying interests (especially on a Sunday morning…), so follow-up materials included not just slides but a complete toolkit for deeper self-learning and practical workplace use.**  
+**我們理解每個人的步伐不同、興趣不同（尤其是在週日早上的時候...),因此，不只後續分享的不只是簡報，更是一個完整能深化自我學習、甚至帶回職場使用的內容工具包。**
 
-##### Heading Five (h5)
+---
 
-###### Heading Six (h6)
+### **3. Designing a highly interactive and discussion-driven flow**  
+### **3. 高度討論、互動式的流程設計**
 
-## Links
+**During the two-hour workshop, Hui-Liu designed two 10-minute interactive segments: one for introductions and sharing existing AI tool usage, and another for writing one’s own ChatGPT SOP.**  
+**在 2 小時的工作坊中，惠流設計了 2 個 10 分鐘的互動流程，一個是相互自我介紹和了解現行大家使用的 AI tools、一個是寫下自己如何使用 chatgpt 的 SOP。**
 
-You can create an inline link by wrapping link text in square brackets `[ ]`, and then wrapping the URL in parentheses `( )`. For example, it is very easy to [link to Google!](http://google.com).
+**These activities connected directly to the following 20 minutes of content delivery, enabling richer discussion and debate among participants.**  
+**這些部分都與後續20分鐘的講述內容相關，並且更能與成員相互討論和激辯。**
 
-## Blockquotes
+你可以在[Resources/資源分享]（https://ema-sh.github.io/Insight-Stream/resources）中，找到這個工作坊案例的簡報檔。
 
-Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:
-
-> This quote will change your life.
-
-Multi line blockquote with a cite reference:
-
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
-
-## Code and Syntax Highlighting
-
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages [here](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers). Also, it is possible to do `inline code blocks`, by wrapping the text in ` ` ` quotations.
-
-```
-No language indicated, so no syntax highlighting.
-```
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Another option is to embed your code through [Gist](https://en.support.wordpress.com/gist/).
-
-## Unordered and Numbered Lists
-
-You can make an unordered and nested list by preceding one or more lines of text with `-`, `*`, or `+`, and indenting sublists. The following lists show the full range of possible list formats.
-
-* List item one
-    * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    * List item two
-    * List item three
-    * List item four
-* List item two
-* List item three
-* List item four
-
-Numbered lists are made by using numbers instead of bullet points.
-
-1. List item one
-    1. List item one
-        1. List item one
-        2. List item two
-        3. List item three
-        4. List item four
-    2. List item two
-    3. List item three
-    4. List item four
-2. List item two
-3. List item three
-4. List item four
-
-## MathJax Example
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is a partial differential equation that describes how the quantum state of a quantum system changes with time:
-
-$$
-i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
-$$
-
-[Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j} $$
-
-## Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-## Embedding
-
-Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
-
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-## Useful Resources
-
-More information on Markdown can be found at the following links:
-
-- [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code)
-- [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
-- [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
-- [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
-- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
