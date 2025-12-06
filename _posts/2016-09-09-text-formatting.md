@@ -22,7 +22,8 @@ Workshop design is one of the services Hui-Liu provides most frequently. Because
 **Generally, Hui-Liu builds a workshop through three main approaches:**  
 **一般來說，惠流會以三個方式來建構一場工作坊：**
 
-## Break hard knowlege into all understandable points 化繁為簡
+## Co-working is based on we all on the page
+## 共作建立在大家都一起清楚認知概念之上
 
 <p>Using the 2025 OPENAI Workshop as an Example, it’s not easy to explain OpenAI, SaaS, Life of Circle, and LLM to workers with zero background within just two hours—while also guiding them through proper OpenAI usage norms and boundaries, and finally helping them apply these tools in NGO contexts, especially on a Sunday morning at 10 AM!
 以 2025 年舉辦過的 OPEN AI 工作坊為例，要在 2 小時內，對完全沒有基礎的工作者解釋 Open AI 、Saas、Life of Circle、LLM 並且引導大家更正式 Open AI 使用規範和界線，最後讓大家可以應用在 NGO 工作場域之上，這不是一件容易的事情，尤其時間點是週日早上 10 點！
@@ -63,5 +64,5 @@ We recognized that everyone learns at a different pace and has varying interests
 These activities connected directly to the following 20 minutes of content delivery, enabling richer discussion and debate among participants.  
 這些部分都與後續20分鐘的講述內容相關，並且更能與成員相互討論和激辯。</p>
 
-**你可以在在這個連結，找到這個工作坊案例的簡報檔：[Resources/資源分享]（https://ema-sh.github.io/Insight-Stream/resources）**
+**你可以在在這個連結，找到這個工作坊案例的簡報檔：[Resources/資源分享](https://ema-sh.github.io/Insight-Stream/resources)**
 
