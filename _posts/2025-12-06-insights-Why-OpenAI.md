@@ -30,14 +30,14 @@ If we treat AI as we do cars, we don’t just learn “how to drive.”
  We learn traffic rules. We understand risks. We get a license.
  Why should AI be any different?
 <br>
-👉 That’s why in my workshops, I encourage four mindset shifts:
-1️⃣ Know what you’re using
- Understand what is Open AI, and its abilities and limitations to set healthy expectations.
-2️⃣ Digital security matters more than ever
- Stronger passwords, 2FA, better data practices — especially when connecting multiple platforms together (e.g. when you start to do n8n 😬).
-3️⃣ Humans make the final call
- We ask the questions. We interpret the answers. We stay accountable.
-4️⃣ Risk assessment must include the audience
- Not just the creative process, but the real-world impact of how AI content is distributed and perceived.
+👉 That’s why in my workshops, I encourage four mindset shifts:<br>
+1️⃣ Know what you’re using<br>
+ Understand what is Open AI, and its abilities and limitations to set healthy expectations.<br>
+2️⃣ Digital security matters more than ever<br>
+ Stronger passwords, 2FA, better data practices — especially when connecting multiple platforms together (e.g. when you start to do n8n 😬).<br>
+3️⃣ Humans make the final call<br>
+ We ask the questions. We interpret the answers. We stay accountable.<br>
+4️⃣ Risk assessment must include the audience<br>
+ Not just the creative process, but the real-world impact of how AI content is distributed and perceived.<br>
 <br>
 Highly appreciated that I got a chance to share all these in Oct. via a face-to-face workshop :D Meanwhile, I’m excited that new guidance in Asia (English) is on the way, and some of peers are thinking make an one in Mandarin — and I hope we can keep building a shared foundation through cross-community knowledge.
