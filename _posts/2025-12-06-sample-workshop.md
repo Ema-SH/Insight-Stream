@@ -8,7 +8,8 @@ image: arctic-1.jpg
 ---
 
 # Workshop 工作坊 
-## A possibility to co-work and co-learning 一種集體共作和相互學習的可能性 
+## A possibility to co-work and co-learning 
+## 一種集體共作和相互學習的可能性 
 
 <p>In real-world practice, we often feel that we can’t find the right workshop facilitator—and there are many possible reasons behind this! These reasons may include: “No one understands us,” “Overseas knowledge doesn’t always fit East Asia,” “This knowledge is too niche,” or “We aren’t actually sure what we want,” and so on.
 <br>
