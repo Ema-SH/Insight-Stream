@@ -12,14 +12,14 @@ image: cuba-2.jpg
 <br>
 During this journey, I noticed two key gaps in the conversation:</p>
 <br>
-** 1️⃣ Lots of tutorials, but very little about safe usage **
+<b>1️⃣ Lots of tutorials, but very little about safe usage</b>
  Most guidance focuses on “how to use the tools,” not “how to protect sensitive information.”
  However, activists often ask:
 “Is it safe for me to use AI tools when confidentiality is essential?”
  “How do I trust the technology — and the organizations behind it?”
 A simple two-page government guideline can’t answer these deeper concerns.
 <br>
-**2️⃣ The human decision-maker is missing**
+<b>2️⃣ The human decision-maker is missing</b>
  We talk about ethics, transparency, and copyright…
  ...but we rarely talk about the people using AI — and the audiences receiving the AI-generated content.
 <br>
