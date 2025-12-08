@@ -2,9 +2,9 @@
 layout: post
 title: "Why we should understand the logic of OpenAI? 為什麼不只使用，更要了解 OpenAI?"
 author: "Szuhui"
-date: 2023-12-06
-categories: insights
-tags: [Insights]
+date: 2025-12-06
+categories:insights
+tags: [insights]
 image: cuba-2.jpg
 ---
 # 🚸 Digital Literacy & Responsible AI Use for Activists
