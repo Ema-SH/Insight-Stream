@@ -19,8 +19,8 @@ Workshop design is one of the services Hui-Liu provides most frequently. Because
 <br>
 工作坊設計是惠流最常幫客戶進行的服務項目之一，因為我們大多都是實務工作者且也有管理經驗，因此可以以更直指核心的角度切入來釐清工作坊目的，同時以實際上可行的方式讓想法變成大家可以一起操作、共創的形式，而且...很多時候還會讓人樂在其中！</p>
 
-**Generally, Hui-Liu builds a workshop through three main approaches:**  
-**一般來說，惠流會以三個方式來建構一場工作坊：**
+<b>Generally, Insight Stream builds a workshop through three main approaches:</b>
+<b>一般來說，惠流會以三個方式來建構一場工作坊：</b>
 
 ## Co-working is based on we all on the page
 ## 共作,建立在大家都一起清楚認知概念之上
@@ -35,8 +35,8 @@ Workshop design is one of the services Hui-Liu provides most frequently. Because
 
 ---
 
-### **1. Using relatable imagery and storytelling to translate knowledge**  
-### **1. 用大眾化圖像、敘事來轉換知識**
+### 1. Using relatable imagery and storytelling to translate knowledge  
+### 1. 用大眾化圖像、敘事來轉換知識
 
 <p>When terms like “cloud database: selection, authorization, analysis, output” feel distant, we replaced them with a familiar metaphor—“a vegetable farm: picking, certification, transportation.” <br>
 當「雲端資料庫存：選取、授權、分析、產出」聽起來很遙遠，我們用「蔬菜農場：選菜、認證、運送」的概念來取代！<br>
@@ -46,19 +46,19 @@ The closer the content is to everyday life, the easier it is to bridge gaps in b
 
 ---
 
-### **2. Providing open-source and trustworthy toolkits for continued learning**  
-### **2. 用開源和可信賴的工具包來加深事後學習**
+### 2. Providing open-source and trustworthy toolkits for continued learning  
+### 2. 用開源和可信賴的工具包來加深事後學習
 
 <p>Each part of the workshop was built from reliable data or academic sources.We recognized that everyone learns at a different pace and has varying interests (especially on a Sunday morning…), so follow-up materials included not just slides but a complete toolkit for deeper self-learning and practical workplace use.  <br>
 每部分的內容設計都是來自於可信賴的資料或學術產出。我們理解每個人的步伐不同、興趣不同（尤其是在週日早上的時候...),因此，不只後續分享的不只是簡報，更是一個完整能深化自我學習、甚至帶回職場使用的內容工具包。 <br></p>
 
 ---
 
-### **3. Designing a highly interactive and discussion-driven flow**  
-### **3. 高度討論、互動式的流程設計**
+### 3. Designing a highly interactive and discussion-driven flow  
+### 3. 高度討論、互動式的流程設計
 
 <p>During the two-hour workshop, Hui-Liu designed two 10-minute interactive segments: one for introductions and sharing existing AI tool usage, and another for writing one’s own ChatGPT SOP.These activities connected directly to the following 20 minutes of content delivery, enabling richer discussion and debate among participants.<br>  
 在 2 小時的工作坊中，惠流設計了 2 個 10 分鐘的互動流程，一個是相互自我介紹和了解現行大家使用的 AI tools、一個是寫下自己如何使用 chatgpt 的 SOP。這些部分都與後續20分鐘的講述內容相關，並且更能與成員相互討論和激辯。<br> </p>
 
-**你可以在在這個連結，找到這個工作坊案例的簡報檔：[Resources/資源分享](https://ema-sh.github.io/Insight-Stream/resources)**
+<b>你可以在在這個連結，找到這個工作坊案例的簡報檔：[Resources/資源分享](https://ema-sh.github.io/Insight-Stream/resources)</b>
 
