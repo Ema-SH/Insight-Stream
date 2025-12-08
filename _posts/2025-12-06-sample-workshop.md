@@ -23,7 +23,7 @@ Workshop design is one of the services Hui-Liu provides most frequently. Because
 **一般來說，惠流會以三個方式來建構一場工作坊：**
 
 ## Co-working is based on we all on the page
-## 共作建立在大家都一起清楚認知概念之上
+## 共作,建立在大家都一起清楚認知概念之上
 
 <p>Using the 2025 OPENAI Workshop as an Example, it’s not easy to explain OpenAI, SaaS, Life of Circle, and LLM to workers with zero background within just two hours—while also guiding them through proper OpenAI usage norms and boundaries, and finally helping them apply these tools in NGO contexts, especially on a Sunday morning at 10 AM!
   <br>
