@@ -2,7 +2,8 @@
 layout: post
 title: "Why we should understand the logic of OpenAI? 為什麼不只使用，更要了解 OpenAI?"
 author: "Szuhui"
-categories: insights
+date: 2023-12-06
+categories: [insights]
 tags: [Insights]
 image: cuba-2.jpg
 ---

@@ -2,8 +2,10 @@
 layout: default
 ---
 
-{% for post in site.posts %}
-  {% if post.categories contains page.category %}
+{% assign category_posts = site.categories[page.category] | sort: 'date' | reverse %}
+
+{% if category_posts %}
+  {% for post in category_posts %}
     {% include featured-post.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+{% endif %}
