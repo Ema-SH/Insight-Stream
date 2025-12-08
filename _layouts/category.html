@@ -7,3 +7,12 @@ layout: default
     {% include featured-post.html %}
   {% endif %}
 {% endfor %}
+
+
+{% assign category_posts = site.categories[page.category] | sort: 'date' | reverse %}
+
+{% if category_posts %}
+  {% for post in category_posts %}
+    {% include featured-post.html %}
+  {% endfor %}
+{% endif %}
