@@ -7,11 +7,11 @@ disqus:
 google-ID: 'G-34LNVHCGDT'
 
 menu:
+- {name: 'About/關於',url: 'about'}
 - {name: 'Insights / 觀點', url: 'insights'}
 - {name: 'Services/服務項目',url: 'services'}
 - {name: 'Portfolio/案例分享',url: 'sample-posts'}
 - {name: 'Resource/資源',url: 'resources'}
-- {name: 'About/關於',url: 'about'}
 - {name: 'Contact/聯絡我們',url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
