@@ -1,22 +1,46 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Essential thing for all:Get some digital security talent for your working account"
+author: "Szuhui"
 categories: resources
-tags: [documentation,sample]
+tags: [learning,digital security,matters]
 image: arctic-2.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+ At the end of year 2025, looking back to the past 12 months, at least 3 times I have heard about the large-scale phishing emails that have sent to different NGO workers and academics.Check the email content in these three times, they all named themselves someone you may know from the network, they invited you to join a conference in the tone you familiar, they provided the link to click. 
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+ Weird thing from me is, they all contained some very obvious error details in the lines, like the date is incorrect, the email address is not correct, they accidentally used the terminologies that not for traditional mandarin users. The sending scale widely covered all academics and NGOs who might or might not working in democracy/human rights issues. With all the obvious patterns there, people might shocked but take it serious but not too serious, yet overseeing these three times, there are some insights I got from my own observation:
+ 
 
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
+## Academia in Taiwan: Surprisingly fragile in both knowledge and system security 
+From the posts shared by people who received these suspicious emails, it’s clear that NGO workers tend to be quite aware of digital threats. They openly share information to warn others in their networks, and NGOs themselves often release public statements to protect their reputation and reassure supporters. In academia, however, things look very different. Scholars don’t have the same kind of social networks or communication culture, and it’s uncommon for them to share risk-related information with one another. This creates a noticeably different atmosphere between the two groups.
 
-## [Codecademy](https://www.codecademy.com/)
+In recent years, even though the available resources are still limited, more Mandarin digital-security guidelines and training materials have been published for NGOs and NGO workers. These trainings might not be enough to deal with high-level attacks, but they do help NGOs build basic awareness and learn how to respond. The rise in digital incidents—such as project data leaks and the exposure of supporter information—has made the issue much more visible. As a result, many NGOs have started putting more effort into digital security, including internal training, digital transformation, and policy development.
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
+On the other hand, academic institutions in Taiwan face several structural challenges that make it hard for them to keep up. Administrative procedures are complicated, and any policy change depends on top-down decision-making. Digital security is usually handled by the IT department, which adds another layer of communication difficulty. As a result, many systems stay outdated and vulnerable for long periods of time. There are also no mandatory guidelines, training programs, or helplines for scholars. How they respond to digital threats mostly depends on their personal knowledge. Some professors may never have learned about digital security or seen real cases, which leaves them facing attacks and consequences on their own. Finally, unlike NGOs, academic institutions don’t have a public responsibility to explain or disclose digital-security issues, so there is little incentive for them to discuss these problems openly.
 
-## [Khan Academy](https://www.khanacademy.org/)
+These observations are still preliminary and require more evidence, so they cannot serve as firm conclusions. But the differences between NGO workers and academics already point to important questions. It seems increasingly necessary to talk about digital-security awareness—especially when comparing how people in these two fields experience and respond to digital threats.
 
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+## It is an attack or a network testing?
+
+As mentioned in the beginning, these emails containt some very obvious errors, such as using simplifed mandarin words, terminologies or email address difference. I checked those emails but wondering who they are actually targeting for? What they acutally want to get? OR! They just lack of budget and have used too much ChatGPT without re-check? For the most recent happened case, I collected 4-5 names who recieved these emails and checked their backgrounds, actually, they are belonged to all divided networks and don't know each others. Their profession background also widely spreaded in the academic , NGO and the public sector. The only common pattern between them is they all have invloved in social movement, democaracy work or being part of human rights work. 
+
+We all know that it is possible to be set up a backdoor or even further once you click an unknown link, it can be an attack for sure. However, for email sending and marketing view, sending email also is a way we can know who open the email, which part they paused, what is the email opening rate and more information. If we do 3-4 runs, it can help the digital marketing stardegy be even better, which is preparing for the next better shot. ( I hope it is not like that)
+
+## Reconfirmation and Community checkup becoming part of working procedure
+
+In the past, we got the invitation and only thinking if it is an event should go. Now! There is one further step to do: verify if this is an actual event and verify who is the contact. Knowing the people in our community or our network become more and more neccesary, it creates the cost of training a junior staffs and let them be known. Also, as a professional, it is important that you know the contacts, so that you have access to reconfirm the information. 
+
+It might reforms the way how we share the information and how we creates the event if we want to connect people and doing something signifcant together.
+
+## Resources: Digital security toolkits
+After all, everything is based in the core : building up the solid digital security skill is a must be for all now. Here are some resources in Traditional Mandarin :
+- CSOs 數位防禦手冊
+https://digitalsecurityhandbook.ocf.tw/
+- CSCS 資安教材系列 教材
+https://drive.google.com/drive/folders/1CXMlw9jHtBKbt8WfK
+WG2xZt01rmOgm3f
+- 無國界記者資源
+https://resources.rsf.org/zh-tw/external-resources/
+
+
