@@ -3,7 +3,7 @@ layout: post
 title: "Essential thing for all:Get some digital security talent for your working account"
 author: "Szuhui"
 categories: resources
-tags: [learning,digital security,matters]
+tags: [learning]
 image: arctic-2.jpg
 ---
 
