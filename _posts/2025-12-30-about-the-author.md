@@ -6,7 +6,7 @@ categories: facts
 tags: [sample]
 image: 1709887945329.jpg
 ---
-# Szuhui Huang👋
+# Szuhui Huang 
 
 🌱 Independent consultant working at the intersection of  
 **Digital Rights · Feminist Movements · NGO Innovation**
@@ -15,14 +15,20 @@ image: 1709887945329.jpg
 
 ---
 
-## 🧭 Focus Areas
+## 🧭 Focus Areas｜關注領域
 
-- 🔐 **Digital Rights & Internet Freedom**
-- ♀️ **Feminist & Gender Justice Movements**
-- 🌏 **Cross-border & Interdisciplinary NGO Collaboration**
-- 📊 **Research, Evaluation & Learning (MEL)**
-- 🧩 **Grant-making Support & Strategy Design**
-- 🤝 **Community-centered & Solidarity-based Practices**
+- 🔐 **Digital Rights & Internet Freedom**  
+  數位人權與網路自由
+- ♀️ **Feminist & Gender Justice Movements**  
+  女性主義與性別正義運動
+- 🌏 **Cross-border & Interdisciplinary NGO Collaboration**  
+  跨國與跨領域 NGO 合作
+- 📊 **Research, Evaluation & Learning (MEL)**  
+  研究、評估與學習（MEL）
+- 🧩 **Grant-making Support & Strategy Design**  
+  補助申請支持與策略設計
+- 🤝 **Community-centered & Solidarity-based Practices**  
+  以社群為核心的行動與團結實踐
 
 ---
 
@@ -50,8 +56,12 @@ Through **InsightStream**, I accompany organizations in navigating uncertainty, 
 
 ---
 
-### 📫 Connect & Collaborate
-- 🌍 Digital rights · Feminist movements · NGO strategy
-- 💬 Open to collaboration, research, and conversations
+## 📫 Connect & Collaborate｜聯繫與合作
 
+- 🌍 **Digital rights · Feminist movements · NGO strategy**  
+  數位人權 · 女性主義 · NGO 策略與組織發展
+- 💬 **Open to collaboration, research, and conversations**  
+  歡迎合作、研究交流與對話
+- 💬 **Events,Workshops, and Visiting tours**  
+  活動、工作坊和參訪行程
 
