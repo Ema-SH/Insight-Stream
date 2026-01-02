@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About the Author"
+title: "About the Author 關於作者"
 author: "Szuhui Huang"
 categories: facts
 tags: [sample]
-image: IMG (8).png1709887945329.jpg
+image: 1709887945329.jpg
 ---
 
 <p align="center">
