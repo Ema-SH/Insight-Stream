@@ -6,7 +6,7 @@ categories: facts
 tags: [sample]
 image: 1709887945329.jpg
 ---
-# Szuhui 👋
+# Szuhui Huang👋
 
 🌱 Independent consultant working at the intersection of  
 **Digital Rights · Feminist Movements · NGO Innovation**
