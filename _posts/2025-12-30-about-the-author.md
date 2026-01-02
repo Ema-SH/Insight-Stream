@@ -4,7 +4,7 @@ title: "About the Author 關於作者"
 author: "Szuhui Huang"
 categories: facts
 tags: [sample]
-image: 1709887945329.jpg
+image: IMG (8).png
 ---
 
 <p align="center">
