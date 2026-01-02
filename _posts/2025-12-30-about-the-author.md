@@ -8,7 +8,7 @@ image: 1709887945329.jpg
 ---
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/1709887945329.jpg" width="160" alt="Szuhui portrait" />
+  <img src="/assets/images/1709887945329.jpg" width="160" alt="Szuhui portrait" />
 </p>
 
 <h1 align="center">Szuhui Huang</h1>
