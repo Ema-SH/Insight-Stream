@@ -4,12 +4,18 @@ title: "About the Author"
 author: "Szuhui Huang"
 categories: facts
 tags: [sample]
-image: 1709887945329.jpg
+image: IMG (8).png
 ---
-# Szuhui Huang 
 
-🌱 Independent consultant working at the intersection of  
-**Digital Rights · Feminist Movements · NGO Innovation**
+<p align="center">
+  <img src="./1709887945329.jpg" alt="Szuhui portrait" width="160" />
+</p>
+
+<h1 align="center">Szuhui Huang</h1>
+
+<p align="center">
+  🌱 Digital Rights · Feminist Movements · NGO Innovation
+</p>
 
 [English](#english) · [繁體中文](#繁體中文)
 
