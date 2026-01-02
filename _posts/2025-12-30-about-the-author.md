@@ -6,11 +6,52 @@ categories: facts
 tags: [sample]
 image: 1709887945329.jpg
 ---
-Hi there!
+# Szuhui 👋
 
-This is Szuhui, I have served as a project manager in different NGOs across Asia, and now is an independent consultant for digital rights, feminist movement and more innovate possibilities for NGOs. With a decade of experience, I has been instrumental in assisting non-profit organizations in establishing interdisciplinary and cross-border collaborations to realize their social visions. My first 4 years of career path as a social worker, focusing on issues related to gender minorities, migrants, and healthcare, this is a root that keep motivating me to emphasize the minorities’ rights in my current digital rights advocacy.
+🌱 Independent consultant working at the intersection of  
+**Digital Rights · Feminist Movements · NGO Innovation**
 
-In recent 3 years, I found my passion is assisting other people's idea become reality, and this is what I truly can contribute in. Through companying an organization in their grant making journey , a solution providing or initialing an event for the NGOs and their projects; my data collecting , interview and evaluation skills helped the projects and the organizations to find their clearer patb for making their future plan/trying the new way. 
-No matter what it looked like at the end,maybe is a primary research for the subject, a workshop to build up solidarity , or a two-year stradegy built during grant making... InsightStream is more focused on providing the support to achieve your goal and even build the more possibility in the future.
+[English](#english) · [繁體中文](#繁體中文)
+
+---
+
+## 🧭 Focus Areas
+
+- 🔐 **Digital Rights & Internet Freedom**
+- ♀️ **Feminist & Gender Justice Movements**
+- 🌏 **Cross-border & Interdisciplinary NGO Collaboration**
+- 📊 **Research, Evaluation & Learning (MEL)**
+- 🧩 **Grant-making Support & Strategy Design**
+- 🤝 **Community-centered & Solidarity-based Practices**
+
+---
+
+## English
+
+I am Szuhui, an independent consultant with over a decade of experience supporting NGOs across Asia. My work focuses on helping organizations build **interdisciplinary and cross-border collaborations** to advance social justice and digital rights.
+
+I began my career as a social worker, working with **gender minorities, migrants, and healthcare-related issues**. This background continues to shape my advocacy and consulting practice, centering the rights of marginalized communities.
+
+In recent years, my passion has been helping others **turn ideas into reality**—through grant-making support, research, evaluation, strategy design, and community-based initiatives. Outcomes range from primary research and solidarity-building workshops to long-term organizational strategies.
+
+Through **InsightStream**, I accompany organizations in navigating uncertainty, clarifying direction, and creating new possibilities for the future.
+
+---
+
+## 繁體中文
+
+我是 Szuhui，一名獨立顧問，擁有超過十年於亞洲非政府組織工作的經驗，專注於 **數位人權、女性主義運動**，以及 NGO 的創新實踐與跨國合作。
+
+我職涯初期曾擔任社工，關注 **性別少數、移工與醫療議題**。這段經驗至今仍深刻影響我的工作方向，使我在顧問與倡議實踐中，持續將邊緣社群的權利放在核心位置。
+
+近年來，我投入於協助他人將想法落實為行動，透過補助申請陪伴、研究與評估、策略規劃，以及社群導向的行動方案，支持組織探索新的可能性。成果可能是一項研究、一場凝聚行動力的工作坊，或一套中長期發展策略。
+
+透過 **InsightStream**，我陪伴組織在不確定中釐清方向，並為未來創造更多可能。
+
+---
+
+### 📫 Connect & Collaborate
+- 🌍 Digital rights · Feminist movements · NGO strategy
+- 💬 Open to collaboration, research, and conversations
 
 
