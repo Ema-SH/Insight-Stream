@@ -4,11 +4,11 @@ title: "About the Author 關於作者"
 author: "Szuhui Huang"
 categories: facts
 tags: [sample]
-image: 1709887945329.jpg
+image: IMG (8).png
 ---
 
 <p align="center">
-  <img src="./IMG (8).png" width="160" />
+  <img src="./1709887945329.jpg" width="160" />
 </p>
 
 <h1 align="center">Szuhui Huang</h1>
