@@ -4,18 +4,19 @@ title: "About the Author 關於作者"
 author: "Szuhui Huang"
 categories: facts
 tags: [sample]
-image: IMG (8).png
+image: 1709887945329.jpg
 ---
 
 <p align="center">
-  <img src="/assets/images/1709887945329.jpg" width="160" alt="Szuhui portrait" />
+  <img src="./IMG (8).png" alt="Szuhui portrait" width="160" />
 </p>
 
-<h1 align="center">Szuhui Huang</h1>
+<h1 align="center">Szuhui</h1>
 
 <p align="center">
   🌱 Digital Rights · Feminist Movements · NGO Innovation
 </p>
+
 
 [English](#english) · [繁體中文](#繁體中文)
 
